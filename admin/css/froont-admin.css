@@ -1,0 +1,17 @@
+.froont_settings_panel pre {
+  background-color: white;
+  padding: 1em;
+}
+
+#froont_meta_box .spinner {
+  float: none;
+  margin: 0;
+}
+
+#froont_meta_box .delete {
+  color: #a00;
+}
+
+#froont_meta_box .delete:hover {
+  color: red;
+}
